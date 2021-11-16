@@ -1,0 +1,2 @@
+-javaagent:opentelemetry-javaagent-all.jar
+-Dotel.traces.exporter=zipkin
